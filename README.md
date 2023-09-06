@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Brandon LaPointe (@Brandomon) and I am a Computer Science student at SUNY Oswego.
+- 🌱 I’m currently studying the processes of software engineering, parallel computing, and computational models of cognitive science.
+- 👀 I’m interested in developing software in Java but have bits of experience with other programming languages as well (C, C++, Assembly, Racket, Prolog, Haskell).
+- 📫 How to reach me:
+- - - Email: blapoint@oswego.edu
