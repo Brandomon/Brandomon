@@ -2,4 +2,4 @@
 - 🌱 I’m currently studying the processes of software engineering, parallel computing, and computational models of cognitive science.
 - 👀 I’m interested in developing software in Java but have bits of experience with other programming languages as well (C, C++, Assembly, Racket, Prolog, Haskell).
 - 📫 How to reach me:
-- - - Email: blapoint@oswego.edu
+  - Email: blapoint@oswego.edu
