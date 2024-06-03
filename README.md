@@ -2,7 +2,7 @@
   - SUNY OCC - Computer Information Systems - Associate of Applied Science - Magna Cum Laude (December 2021)
   - SUNY Oswego - Computer Science - Bachelor's of Arts - Cum Laude (May 2024)
 - Previously taken classes: Data Structures & Algorithms, Programming Languages, Parallel Computing, Software Engineering, Software/Safety Requirements Engineering, Networking, Privacy/Security/Cryptology, Game Programming, Computational Models of Cognitive Science, and Computational Models of Language Representation & Processes.
-- I’m interested in software/systems engineering and developing software in Java but have bits of experience with other programming languages as well (C, C++, Assembly, Racket, Prolog, Haskell).
+- I’m interested in software/systems engineering and developing software in Java where I am most experienced. I also have experience with other programming languages such as C, C++, Assembly, Racket, Prolog, and Haskell, but I am eager to expand my coding knowledge!
 - How to reach me:
   - Email: brandon.m.lapoint@gmail.com
 - LinkedIn:
