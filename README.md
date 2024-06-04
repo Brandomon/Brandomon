@@ -1,8 +1,8 @@
-- Hi, my name is Brandon LaPointe and I am an aspiring software engineer.
+- Hi, I'm Brandon LaPointe, an aspiring software engineer. My previous educational background includes:
   - SUNY OCC - Computer Information Systems - Associate of Applied Science - Magna Cum Laude (December 2021)
   - SUNY Oswego - Computer Science - Bachelor's of Arts - Cum Laude (May 2024)
-- Previously taken classes: Data Structures & Algorithms, Programming Languages, Parallel Computing, Software Engineering, Software/Safety Requirements Engineering, Networking, Privacy/Security/Cryptology, Game Programming, Computational Models of Cognitive Science, and Computational Models of Language Representation & Processes.
-- I’m interested in software/systems engineering and developing software in Java where I am most experienced. I also have experience with other programming languages such as C, C++, Assembly, Racket, Prolog, and Haskell, and I am eager to expand my coding knowledge!
+- Relevant classes: Data Structures & Algorithms, Programming Languages, Parallel Computing, Software Engineering, Software/Safety Requirements Engineering, Networking, Privacy/Security/Cryptology, Game Programming, Computational Models of Cognitive Science, and Computational Models of Language Representation & Processes.
+- I’m interested in software/systems engineering and developing software in Java where I am most experienced. I am also familiar with other programming languages such as C, C++, Assembly, Racket, Prolog, and Haskell, and I am eager to expand my coding knowledge!
 - How to reach me:
   - Email: brandon.m.lapoint@gmail.com
 - LinkedIn:
